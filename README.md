@@ -1,4 +1,4 @@
-This repository contains tutorials of [RunAbove Knowledge
+This amazing repository contains tutorials of [RunAbove Knowledge
 base](https://community.runabove.com/kb).
 
 # How to write a how-to guide?
